@@ -1,4 +1,4 @@
-# Podcaster:
+# Store:
 
 ### [Click aquí para ver el ejemplo](https://gm-gith.github.io/nextjs-tailwind-react-store/)
 
@@ -20,7 +20,7 @@ SPA en formato desktop, disponible para la ultima versión de Chrome, con 2 vist
 2. Vista secundaria de productos para proveedores
 
 ### Cómo usar:
-Para facilitar la demostración se agregan los botones de navegación (Clientes/Proveedores).
+Para facilitar la demostración se agregan botones de navegación (Clientes/Proveedores).
 
 ### Tecnologías:        
 React (Router, Testing-Library), Jest (Unitarios), Cypress (E2E).
