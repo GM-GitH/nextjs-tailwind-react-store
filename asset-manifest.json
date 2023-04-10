@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nextjs-tailwind-react-store/static/css/main.0ce13fbf.css",
+    "main.js": "/nextjs-tailwind-react-store/static/js/main.d2804f43.js",
+    "index.html": "/nextjs-tailwind-react-store/index.html",
+    "main.0ce13fbf.css.map": "/nextjs-tailwind-react-store/static/css/main.0ce13fbf.css.map",
+    "main.d2804f43.js.map": "/nextjs-tailwind-react-store/static/js/main.d2804f43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ce13fbf.css",
+    "static/js/main.d2804f43.js"
+  ]
+}
